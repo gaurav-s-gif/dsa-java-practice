@@ -1,0 +1,31 @@
+# ===== Java Class Files =====
+*.class
+
+# ===== Log Files =====
+*.log
+
+# ===== IntelliJ IDEA =====
+.idea/
+out/
+
+# ===== VS Code =====
+.vscode/
+
+# ===== Eclipse =====
+.project
+.classpath
+.settings/
+bin/
+
+# ===== Maven/Gradle =====
+target/
+build/
+.gradle/
+
+# ===== System Files =====
+.DS_Store
+Thumbs.db
+
+# ===== JAR/WAR =====
+*.jar
+*.war
