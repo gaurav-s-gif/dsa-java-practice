@@ -1,3 +1,10 @@
+// Problem: 1752. Check if Array Is Sorted and Rotated
+// Platform: LeetCode
+// Link: https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
+// Approach: Count the number of "drops" where nums[i] > nums[i+1]
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+
 class Solution{
     public static boolean check(int[] nums) {
         int count=0;
