@@ -14,7 +14,7 @@
 
 import java.util.Arrays;
 
-public class Solution {
+public class RotateArray {
 
     public static int[] rotate(int[] nums, int k) {
         int n = nums.length;
